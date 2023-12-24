@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hugo-mi
-- 👀 I’m interested in Machine Learning
-- 🌱 I’m currently doing an Advanced Master in Big Data at Télécom Paris
-- 📫 How to reach me hugo.michel@telecom-paris.fr
+- 👀 I’m interested in Machine Learning and Quantitative Finance
+- 🌱 I’m currently working as Quant/Data Scientist
+- 📫 How to reach me hu.michel@orange.fr
 
 <!---
 hugo-mi/hugo-mi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
