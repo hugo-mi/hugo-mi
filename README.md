@@ -1,3 +1,11 @@
+# Hello, I'm Charaf 👋
+
+## I have been coding since age 15, interested in quantitative finance, computer vision, and agent-based models in economics and finance.
+- 🔭 I’m currently working on **P**hysics **I**nformed **N**eural **N**etwork (PINN).
+- 🎓 Studying at Paris 1 Panthéon-Sorbonne.
+- 🌱 I’m deeply passionate about many things including physics, mathematics.
+- 🥅 2024 Goals: continue to make easier to undersrand data science concepts by writing blog posts on my personal website.
+
 ### Connect with me:
 
 [LinkedIn]([https://www.linkedin.com/in/charaf-zguiouar/](https://www.linkedin.com/in/hugo-michel/))
