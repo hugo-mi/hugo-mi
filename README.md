@@ -1,4 +1,4 @@
-# Hello, I'm Charaf 👋
+# Hello, I'm Hugo 👋
 
 ## I have been coding since age 15, interested in quantitative finance, computer vision, and agent-based models in economics and finance.
 - 🔭 I’m currently working on **P**hysics **I**nformed **N**eural **N**etwork (PINN).
