@@ -8,7 +8,7 @@
 
 ### Connect with me:
 
-[LinkedIn]([https://www.linkedin.com/in/hugo-michel/](https://www.linkedin.com/in/hugo-michel/))
+[LinkedIn](https://www.linkedin.com/in/hugo-michel/))
 [Website](https://www.hugomichel.io/)
 [Portfolio](https://www.hugomichel.io/#projects)
 
