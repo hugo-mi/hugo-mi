@@ -1,6 +1,6 @@
 # Hello, I'm Hugo 👋
 
-## I am interested in Quantitative Finance, NLP and Computer Vision applied to finance.
+## My research interests include Machine Learning, Quantitative Finance and NLP
 - 🔭 I’m currently working on **P**hysics **I**nformed **N**eural **N**etwork (PINN) for my master thesis.
 - 🎓 Studying at Paris 1 Panthéon-Sorbonne.
 - 🌱 I’m deeply passionate about many things including physics, mathematics.
